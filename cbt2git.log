@@ -1,0 +1,9 @@
+2023-08-06 02:53:58.580040 - Initialized conversion of CBT318
+2023-08-06 02:53:58.639261 - Received CBT.V505.FILE318.PDS from FILE318.XMI 
+2023-08-06 02:53:58.641635 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:53:58.642538 - Found $ADDR.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/$ADDR
+2023-08-06 02:53:58.643615 - Found $DOC.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/$DOC
+2023-08-06 02:53:58.644659 - Found @FILE318.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/@FILE318
+2023-08-06 02:53:58.645826 - Found ASM.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/ASM
+2023-08-06 02:53:58.646849 - Found REX.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/REX
+2023-08-06 02:53:58.647803 - Found REXGERMN.txt (text/plain) in CBT.V505.FILE318.PDS, moved to PDS/REXGERMN
